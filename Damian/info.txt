@@ -1,0 +1,4 @@
+ Dia:Lunes-Nombre:Juanto-año:Lambayeque
+ DNI:72520771-Nombre:Jesus-Apellido:Damian
+ nombre:Alexisplatos:ceviche
+ restaurant:norkys-Nombre:Alexis-plato:Causa
